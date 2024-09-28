@@ -30,6 +30,10 @@ a:visited {
   color: #74638f;
 }
 
+.year {
+  font-weight: bold;
+}
+
 #main {
   margin: 30px 8px;
   padding: 15px;
@@ -84,7 +88,7 @@ li {
 
 blockquote {
   font-style: italic;
-  max-width: 540px;
+  max-width: 500px;
   margin: 0 auto 50px;
   text-align: left;
 }
