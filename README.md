@@ -9,20 +9,20 @@ Additional description of the project and its features.
 ## Built With
 
 - HTML5
-   - `main`
-   - `section`
-   - `img`
-   - `figure`
-   - `li`
+  - `main`
+  - `section`
+  - `img`
+  - `figure`
+  - `li`
 - CSS
-   - `text-align`
-   - `display`
-   - `width`
-   - `padding`
-   - `line-height`
+  - `text-align`
+  - `display`
+  - `width`
+  - `padding`
+  - `line-height`
 - Linters
-   - [Prettier](https://prettier.io/),
-   - [Stylelint](https://stylelint.io/),
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
 - Github Action
 
 ## Live Demo
