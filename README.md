@@ -9,20 +9,20 @@ Additional description of the project and its features.
 ## Built With
 
 - HTML5
-  - `main`
-  - `section`
-  - `img`
-  - `figure`
-  - `li`
+   - `main`
+   - `section`
+   - `img`
+   - `figure`
+   - `li`
 - CSS
-  - `text-align`
-  - `display`
-  - `width`
-  - `padding`
-  - `line-height`
+   - `text-align`
+   - `display`
+   - `width`
+   - `padding`
+   - `line-height`
 - Linters
-  - [Prettier](https://prettier.io/),
-  - [Stylelint](https://stylelint.io/),
+   - [Prettier](https://prettier.io/),
+   - [Stylelint](https://stylelint.io/),
 - Github Action
 
 ## Live Demo
@@ -107,12 +107,6 @@ Feel free to check the [issues page](../../issues).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
 
 ## 📝 License
 

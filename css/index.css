@@ -1,37 +1,8 @@
 body {
   font-size: 1.6rem;
-  line-height: 1.5;
   text-align: center;
-  color: #333;
+  color: #1d1c1c;
   margin: 0;
-}
-
-h1 {
-  font-size: 4rem;
-  margin-bottom: 0;
-}
-
-@media (width <= 460px) {
-  h1 {
-    font-size: 3.5rem;
-    line-height: 1.2;
-  }
-}
-
-h2 {
-  font-size: 3.25rem;
-}
-
-a {
-  color: #477ca7;
-}
-
-a:visited {
-  color: #74638f;
-}
-
-.year {
-  font-weight: bold;
 }
 
 #main {
@@ -41,10 +12,20 @@ a:visited {
   background: #eee;
 }
 
-@media (width <= 460px) {
-  #main {
-    margin: 0;
-  }
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+a {
+  color: #6bafe7;
+}
+
+a:visited {
+  color: #5a4975;
 }
 
 img {
@@ -64,26 +45,23 @@ img {
   margin: 15px 0 5px;
 }
 
-@media (width <= 460px) {
-  #img-caption {
-    font-size: 1.4rem;
-  }
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px;
+  text-align: left;
+}
+
+li {
+  margin: 15px 0;
+}
+
+.year {
+  font-weight: bold;
 }
 
 #headline {
   margin: 50px 0;
   text-align: center;
-}
-
-ul {
-  max-width: 550px;
-  margin: 0 auto 50px;
-  text-align: left;
-  line-height: 1.6;
-}
-
-li {
-  margin: 15px 0;
 }
 
 blockquote {
